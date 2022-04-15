@@ -5,17 +5,24 @@ repo: upptime # The name of this repository
 sites:
   - name: Portfolio
     url: https://gabrandalisse.vercel.app/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    icon: https://gabrandalisse.vercel.app/favicon.ico
+  - name: Gatsby Hotel
+    url: https://hotel-gatsby-react.netlify.app/
+  - name: MERNTasks
+    url: https://merntask-gab.netlify.app/
+    icon: https://merntask-gab.netlify.app/favicon.ico
+  - name: Product Hunt Clone
+    url: https://product-hunt-clone-9e94f.web.app/
+    icon: https://product-hunt-clone-9e94f.web.app/favicon.ico
+  - name: SAFEPASS
+    url: https://safepass-app.netlify.app/
+    icon: https://safepass-app.netlify.app/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: night 
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
