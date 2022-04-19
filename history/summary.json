@@ -40,18 +40,20 @@
     "url": "https://merntask-gab.netlify.app/",
     "icon": "https://merntask-gab.netlify.app/favicon.ico",
     "slug": "mern-tasks",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 185,
     "timeDay": 95,
     "timeWeek": 185,
     "timeMonth": 185,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 1
+    }
   },
   {
     "name": "Product Hunt Clone",
