@@ -22,10 +22,10 @@
     "url": "https://hotel-gatsby-react.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/hotel-gatsby-react.netlify.app",
     "slug": "gatsby-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
@@ -33,16 +33,18 @@
     "timeWeek": 339,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 1
+    }
   },
   {
     "name": "MERNTasks",
     "url": "https://merntask-gab.netlify.app/",
     "icon": "https://merntask-gab.netlify.app/favicon.ico",
     "slug": "mern-tasks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 145,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 0
+    }
   },
   {
     "name": "Product Hunt Clone",
