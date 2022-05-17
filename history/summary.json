@@ -22,9 +22,9 @@
     "url": "https://hotel-gatsby-react.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/hotel-gatsby-react.netlify.app",
     "slug": "gatsby-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "98.05%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -82,18 +82,18 @@
     "icon": "https://safepass-app.netlify.app/favicon.ico",
     "slug": "safepass",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 429,
     "timeDay": 1052,
     "timeWeek": 509,
     "timeMonth": 473,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2022-05-17": 29
+      "2022-05-17": 17
     }
   }
 ]
