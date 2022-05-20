@@ -22,9 +22,9 @@
     "url": "https://hotel-gatsby-react.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/hotel-gatsby-react.netlify.app",
     "slug": "gatsby-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
@@ -34,6 +34,7 @@
     "timeMonth": 360,
     "timeYear": 332,
     "dailyMinutesDown": {
+      "2022-05-20": 0,
       "2022-05-17": 49,
       "2022-05-02": 31
     }
@@ -43,9 +44,9 @@
     "url": "https://merntask-gab.netlify.app/",
     "icon": "https://merntask-gab.netlify.app/favicon.ico",
     "slug": "mern-tasks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
@@ -55,6 +56,7 @@
     "timeMonth": 441,
     "timeYear": 377,
     "dailyMinutesDown": {
+      "2022-05-20": 0,
       "2022-05-02": 31
     }
   },
@@ -81,7 +83,7 @@
     "url": "https://safepass-app.netlify.app/",
     "icon": "https://safepass-app.netlify.app/favicon.ico",
     "slug": "safepass",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -93,6 +95,7 @@
     "timeMonth": 439,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2022-05-20": 0,
       "2022-05-17": 17
     }
   }
