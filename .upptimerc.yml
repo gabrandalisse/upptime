@@ -16,6 +16,10 @@ sites:
   - name: SAFEPASS
     url: https://safepass-app.netlify.app/
     icon: https://safepass-app.netlify.app/favicon.ico
+  - name: J&L Service
+    url: https://singular-pasca-0b330e.netlify.app/
+    icon: https://singular-pasca-0b330e.netlify.app/favicon.png
+
 
 status-website:
   baseUrl: /upptime
