@@ -22,10 +22,10 @@
     "url": "https://hotel-gatsby-react.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/hotel-gatsby-react.netlify.app",
     "slug": "gatsby-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.87%",
     "time": 296,
@@ -34,6 +34,7 @@
     "timeMonth": 294,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2022-06-15": 1,
       "2022-05-20": 35,
       "2022-05-17": 49,
       "2022-05-02": 31
@@ -52,7 +53,7 @@
     "uptimeYear": "99.93%",
     "time": 334,
     "timeDay": 165,
-    "timeWeek": 197,
+    "timeWeek": 203,
     "timeMonth": 282,
     "timeYear": 334,
     "dailyMinutesDown": {
@@ -105,17 +106,19 @@
     "url": "https://singular-pasca-0b330e.netlify.app/",
     "icon": "https://singular-pasca-0b330e.netlify.app/favicon.png",
     "slug": "j-and-l-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 826,
-    "timeWeek": 296,
+    "timeWeek": 311,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   }
 ]
