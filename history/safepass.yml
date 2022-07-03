@@ -1,7 +1,7 @@
 url: https://safepass-app.netlify.app/
-status: up
-code: 200
-responseTime: 137
-lastUpdated: 2022-07-02T23:16:37.842Z
+status: down
+code: 500
+responseTime: 3067
+lastUpdated: 2022-07-03T18:38:33.323Z
 startTime: Fri Apr 15 2022 00:36:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
