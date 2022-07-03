@@ -1,7 +1,7 @@
 url: https://hotel-gatsby-react.netlify.app/
-status: up
-code: 200
-responseTime: 87
-lastUpdated: 2022-07-02T23:16:36.623Z
+status: down
+code: 500
+responseTime: 3045
+lastUpdated: 2022-07-03T18:38:27.888Z
 startTime: Fri Apr 15 2022 00:36:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
