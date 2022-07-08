@@ -54,7 +54,7 @@
     "time": 333,
     "timeDay": 174,
     "timeWeek": 242,
-    "timeMonth": 296,
+    "timeMonth": 301,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2022-05-20": 35,
@@ -84,9 +84,9 @@
     "url": "https://safepass-app.netlify.app/",
     "icon": "https://safepass-app.netlify.app/favicon.ico",
     "slug": "safepass",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.85%",
@@ -96,6 +96,7 @@
     "timeMonth": 309,
     "timeYear": 334,
     "dailyMinutesDown": {
+      "2022-07-08": 0,
       "2022-06-15": 133,
       "2022-05-20": 34,
       "2022-05-17": 17
@@ -106,7 +107,7 @@
     "url": "https://singular-pasca-0b330e.netlify.app/",
     "icon": "https://singular-pasca-0b330e.netlify.app/favicon.png",
     "slug": "j-and-l-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -115,9 +116,10 @@
     "time": 306,
     "timeDay": 1410,
     "timeWeek": 599,
-    "timeMonth": 354,
+    "timeMonth": 360,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2022-07-08": 0,
       "2022-06-15": 19
     }
   }
