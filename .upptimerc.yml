@@ -2,21 +2,21 @@ owner: gabrandalisse
 repo: upptime 
 
 sites:
-  - name: [FE] Portfolio
+  - name: FE Portfolio
     url: https://gabrandalisse.vercel.app/
     icon: https://gabrandalisse.vercel.app/favicon.ico
-  - name: [FE] Gatsby Hotel
+  - name: FE Gatsby Hotel
     url: https://hotel-gatsby-react.netlify.app/
-  - name: [FE] MERNTasks
+  - name: FE MERNTasks
     url: https://merntasks-evo.netlify.app/
     icon: https://merntasks-evo.netlify.app/favicon.ico
-  - name: [FE] Product Hunt Clone
+  - name: FE Product Hunt Clone
     url: https://product-hunt-clone-9e94f.web.app/
     icon: https://product-hunt-clone-9e94f.web.app/favicon.ico
-  - name: [FE] J&L Service
+  - name: FE J&L Service
     url: https://singular-pasca-0b330e.netlify.app/
     icon: https://singular-pasca-0b330e.netlify.app/favicon.png
-  - name: [BE] MERNTasks
+  - name: BE MERNTasks
     url: https://merntasks-server-evo.herokuapp.com/api/utils/health-check
     method: POST
 
