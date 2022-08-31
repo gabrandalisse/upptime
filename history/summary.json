@@ -22,9 +22,9 @@
     "url": "https://hotel-gatsby-react.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/hotel-gatsby-react.netlify.app",
     "slug": "fe-gatsby-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 405,
     "timeMonth": 313,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   },
   {
     "name": "FE MERNTasks",
     "url": "https://merntasks-evo.netlify.app/",
     "icon": "https://merntasks-evo.netlify.app/favicon.ico",
     "slug": "fe-mern-tasks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 317,
     "timeMonth": 276,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   },
   {
     "name": "FE Product Hunt Clone",
@@ -76,7 +80,7 @@
     "url": "https://singular-pasca-0b330e.netlify.app/",
     "icon": "https://singular-pasca-0b330e.netlify.app/favicon.png",
     "slug": "fe-j-and-l-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +91,9 @@
     "timeWeek": 426,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   },
   {
     "name": "BE MERNTasks",
