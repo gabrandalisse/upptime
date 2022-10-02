@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 1337,
-    "timeWeek": 1017,
-    "timeMonth": 1192,
-    "timeYear": 1228,
+    "time": 1227,
+    "timeDay": 1163,
+    "timeWeek": 1102,
+    "timeMonth": 1167,
+    "timeYear": 1227,
     "dailyMinutesDown": {}
   },
   {
     "name": "FE Gatsby Hotel",
     "url": "https://hotel-gatsby-react.netlify.app/",
-    "icon": "https://favicons.githubusercontent.com/hotel-gatsby-react.netlify.app",
+    "icon": "https://icons.duckduckgo.com/ip3/hotel-gatsby-react.netlify.app.ico",
     "slug": "fe-gatsby-hotel",
     "status": "up",
     "uptime": "99.94%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 484,
-    "timeDay": 158,
-    "timeWeek": 458,
-    "timeMonth": 572,
-    "timeYear": 484,
+    "time": 476,
+    "timeDay": 123,
+    "timeWeek": 457,
+    "timeMonth": 571,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2022-08-31": 36
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.90%",
-    "time": 521,
-    "timeDay": 153,
-    "timeWeek": 203,
-    "timeMonth": 635,
-    "timeYear": 521,
+    "time": 541,
+    "timeDay": 1416,
+    "timeWeek": 393,
+    "timeMonth": 677,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2022-09-07": 25,
       "2022-08-31": 36
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 90,
-    "timeWeek": 88,
-    "timeMonth": 102,
-    "timeYear": 106,
+    "time": 105,
+    "timeDay": 79,
+    "timeWeek": 91,
+    "timeMonth": 101,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 344,
-    "timeDay": 147,
-    "timeWeek": 238,
-    "timeMonth": 330,
-    "timeYear": 344,
+    "time": 366,
+    "timeDay": 1291,
+    "timeWeek": 411,
+    "timeMonth": 334,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2022-08-31": 36
     }
@@ -99,7 +99,7 @@
   {
     "name": "BE MERNTasks",
     "url": "https://merntasks-server-evo.herokuapp.com/api/utils/health-check",
-    "icon": "https://favicons.githubusercontent.com/merntasks-server-evo.herokuapp.com",
+    "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "up",
     "uptime": "100.00%",
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 228,
-    "timeWeek": 1188,
-    "timeMonth": 434,
-    "timeYear": 368,
+    "time": 361,
+    "timeDay": 66,
+    "timeWeek": 1185,
+    "timeMonth": 433,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   }
 ]
