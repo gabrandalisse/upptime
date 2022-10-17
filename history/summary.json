@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1267,
-    "timeDay": 1447,
-    "timeWeek": 1223,
-    "timeMonth": 1222,
-    "timeYear": 1267,
+    "time": 1270,
+    "timeDay": 1433,
+    "timeWeek": 1241,
+    "timeMonth": 1228,
+    "timeYear": 1270,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 505,
-    "timeDay": 160,
-    "timeWeek": 1027,
-    "timeMonth": 549,
-    "timeYear": 505,
+    "time": 521,
+    "timeDay": 1474,
+    "timeWeek": 1234,
+    "timeMonth": 595,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2022-08-31": 36
     }
@@ -43,16 +43,16 @@
     "icon": "https://merntasks-evo.netlify.app/favicon.ico",
     "slug": "fe-mern-tasks",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 493,
-    "timeDay": 1362,
-    "timeWeek": 349,
-    "timeMonth": 371,
-    "timeYear": 493,
+    "uptimeYear": "99.93%",
+    "time": 487,
+    "timeDay": 152,
+    "timeWeek": 356,
+    "timeMonth": 374,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2022-09-07": 25,
       "2022-08-31": 36
@@ -70,8 +70,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 102,
-    "timeWeek": 145,
+    "timeDay": 81,
+    "timeWeek": 105,
     "timeMonth": 103,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 380,
-    "timeDay": 167,
-    "timeWeek": 386,
-    "timeMonth": 414,
-    "timeYear": 380,
+    "time": 374,
+    "timeDay": 27,
+    "timeWeek": 387,
+    "timeMonth": 411,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2022-08-31": 36
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 186,
-    "timeWeek": 266,
-    "timeMonth": 422,
-    "timeYear": 326,
+    "time": 322,
+    "timeDay": 106,
+    "timeWeek": 233,
+    "timeMonth": 420,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   }
 ]
