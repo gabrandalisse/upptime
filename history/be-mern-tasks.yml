@@ -1,7 +1,7 @@
 url: https://merntasks-server-evo.herokuapp.com/api/utils/health-check
 status: down
 code: 503
-responseTime: 66
-lastUpdated: 2022-10-31T03:50:06.600Z
+responseTime: 80
+lastUpdated: 2022-10-31T23:23:24.866Z
 startTime: Sat Aug 20 2022 23:28:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
