@@ -1,7 +1,7 @@
 url: https://merntasks-server-evo.herokuapp.com/api/utils/health-check
 status: up
 code: 200
-responseTime: 205
-lastUpdated: 2022-11-21T23:20:21.729Z
+responseTime: 100
+lastUpdated: 2022-11-22T23:17:24.687Z
 startTime: Sat Aug 20 2022 23:28:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
