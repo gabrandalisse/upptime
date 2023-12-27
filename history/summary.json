@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1287,
-    "timeDay": 1470,
-    "timeWeek": 1317,
-    "timeMonth": 1198,
+    "timeDay": 1611,
+    "timeWeek": 1339,
+    "timeMonth": 1207,
     "timeYear": 1290,
     "dailyMinutesDown": {
       "2023-06-13": 84
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 265,
-    "timeDay": 24,
-    "timeWeek": 85,
+    "time": 264,
+    "timeDay": 108,
+    "timeWeek": 87,
     "timeMonth": 121,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2023-07-25": 27
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 370,
-    "timeWeek": 177,
+    "timeDay": 83,
+    "timeWeek": 164,
     "timeMonth": 105,
     "timeYear": 153,
     "dailyMinutesDown": {
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 113,
-    "timeWeek": 125,
-    "timeMonth": 93,
+    "timeDay": 86,
+    "timeWeek": 106,
+    "timeMonth": 91,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 103,
-    "timeWeek": 77,
+    "timeDay": 67,
+    "timeWeek": 75,
     "timeMonth": 124,
-    "timeYear": 139,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -101,18 +101,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "20.23%",
+    "uptime": "20.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 217,
-    "timeDay": 27,
-    "timeWeek": 212,
-    "timeMonth": 157,
+    "timeDay": 374,
+    "timeWeek": 227,
+    "timeMonth": 160,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-12-26": 75,
+      "2023-12-27": 75,
+      "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -475,8 +476,7 @@
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
-      "2022-12-28": 1440,
-      "2022-12-27": 1440
+      "2022-12-28": 1440
     }
   }
 ]
