@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1278,
-    "timeDay": 1232,
-    "timeWeek": 1078,
-    "timeMonth": 1146,
+    "time": 1279,
+    "timeDay": 1310,
+    "timeWeek": 1186,
+    "timeMonth": 1144,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2023-06-13": 84
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 238,
-    "timeDay": 133,
-    "timeWeek": 81,
-    "timeMonth": 180,
+    "timeDay": 39,
+    "timeWeek": 72,
+    "timeMonth": 174,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2023-07-25": 27
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 189,
-    "timeDay": 56,
-    "timeWeek": 108,
-    "timeMonth": 185,
+    "timeDay": 55,
+    "timeWeek": 104,
+    "timeMonth": 173,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2024-01-03": 19,
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 77,
-    "timeWeek": 81,
-    "timeMonth": 101,
+    "timeDay": 73,
+    "timeWeek": 82,
+    "timeMonth": 99,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -89,9 +89,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 73,
-    "timeWeek": 70,
+    "time": 184,
+    "timeDay": 32,
+    "timeWeek": 65,
     "timeMonth": 107,
     "timeYear": 135,
     "dailyMinutesDown": {}
@@ -102,18 +102,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "18.89%",
+    "uptime": "18.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 224,
-    "timeDay": 372,
-    "timeWeek": 223,
-    "timeMonth": 310,
+    "timeDay": 121,
+    "timeWeek": 178,
+    "timeMonth": 304,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-01-30": 73,
+      "2024-01-31": 74,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -476,8 +477,7 @@
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
-      "2023-02-01": 1440,
-      "2023-01-31": 1440
+      "2023-02-01": 1440
     }
   }
 ]
