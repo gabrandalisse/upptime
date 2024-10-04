@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1245,
-    "timeDay": 1493,
-    "timeWeek": 1239,
-    "timeMonth": 1200,
+    "timeDay": 1337,
+    "timeWeek": 1358,
+    "timeMonth": 1199,
     "timeYear": 1211,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 144,
-    "timeWeek": 391,
-    "timeMonth": 253,
+    "timeDay": 250,
+    "timeWeek": 404,
+    "timeMonth": 258,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 144,
-    "timeDay": 250,
-    "timeWeek": 289,
-    "timeMonth": 208,
+    "timeDay": 106,
+    "timeWeek": 286,
+    "timeMonth": 210,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2024-07-26": 21,
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 77,
-    "timeWeek": 99,
-    "timeMonth": 127,
-    "timeYear": 101,
+    "timeDay": 75,
+    "timeWeek": 103,
+    "timeMonth": 124,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -86,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 129,
-    "timeWeek": 224,
-    "timeMonth": 180,
-    "timeYear": 129,
+    "timeDay": 229,
+    "timeWeek": 177,
+    "timeMonth": 185,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -98,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "12.86%",
+    "uptime": "12.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 227,
-    "timeDay": 218,
-    "timeWeek": 203,
-    "timeMonth": 242,
+    "timeDay": 184,
+    "timeWeek": 217,
+    "timeMonth": 246,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2024-10-03": 104,
+      "2024-10-04": 104,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -472,8 +473,7 @@
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
-      "2023-10-06": 1440,
-      "2023-10-05": 1440
+      "2023-10-06": 1440
     }
   }
 ]
