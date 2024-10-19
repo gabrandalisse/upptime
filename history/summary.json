@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1240,
-    "timeDay": 1253,
-    "timeWeek": 1042,
-    "timeMonth": 1189,
+    "timeDay": 1221,
+    "timeWeek": 1031,
+    "timeMonth": 1190,
     "timeYear": 1206,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 76,
-    "timeWeek": 96,
-    "timeMonth": 210,
+    "timeDay": 195,
+    "timeWeek": 106,
+    "timeMonth": 204,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 144,
-    "timeDay": 532,
-    "timeWeek": 154,
-    "timeMonth": 172,
-    "timeYear": 144,
+    "time": 145,
+    "timeDay": 553,
+    "timeWeek": 202,
+    "timeMonth": 188,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2024-07-26": 21,
       "2024-01-03": 19
@@ -68,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 112,
-    "timeWeek": 134,
+    "timeDay": 76,
+    "timeWeek": 136,
     "timeMonth": 115,
     "timeYear": 101,
     "dailyMinutesDown": {}
@@ -86,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 35,
-    "timeWeek": 187,
+    "timeDay": 40,
+    "timeWeek": 119,
     "timeMonth": 165,
-    "timeYear": 133,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -98,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "12.62%",
+    "uptime": "12.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 231,
-    "timeDay": 49,
-    "timeWeek": 216,
-    "timeMonth": 256,
-    "timeYear": 260,
+    "timeDay": 47,
+    "timeWeek": 199,
+    "timeMonth": 255,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-10-18": 104,
+      "2024-10-19": 102,
+      "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -472,8 +473,7 @@
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
-      "2023-10-21": 1440,
-      "2023-10-20": 1440
+      "2023-10-21": 1440
     }
   }
 ]
