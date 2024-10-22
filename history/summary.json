@@ -4,19 +4,19 @@
     "url": "https://gabrandalisse.vercel.app/",
     "icon": "https://gabrandalisse.vercel.app/favicon.ico",
     "slug": "fe-portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1240,
-    "timeDay": 1331,
-    "timeWeek": 1147,
-    "timeMonth": 1217,
+    "timeDay": 1301,
+    "timeWeek": 1162,
+    "timeMonth": 1218,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 23
     }
   },
   {
@@ -111,7 +111,7 @@
     "timeMonth": 234,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-10-22": 255,
+      "2024-10-22": 278,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
