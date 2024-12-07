@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1226,
-    "timeDay": 1417,
-    "timeWeek": 1279,
-    "timeMonth": 1294,
-    "timeYear": 1205,
+    "timeDay": 1314,
+    "timeWeek": 1186,
+    "timeMonth": 1297,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2024-10-22": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 130,
-    "timeWeek": 191,
-    "timeMonth": 184,
-    "timeYear": 162,
+    "time": 163,
+    "timeDay": 425,
+    "timeWeek": 246,
+    "timeMonth": 181,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 149,
-    "timeDay": 196,
-    "timeWeek": 72,
-    "timeMonth": 193,
+    "time": 148,
+    "timeDay": 35,
+    "timeWeek": 71,
+    "timeMonth": 181,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2024-07-26": 21,
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 161,
-    "timeWeek": 121,
-    "timeMonth": 135,
+    "timeDay": 139,
+    "timeWeek": 123,
+    "timeMonth": 134,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 201,
+    "timeDay": 36,
     "timeWeek": 101,
-    "timeMonth": 178,
+    "timeMonth": 177,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -100,18 +100,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "11.88%",
+    "uptime": "11.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 239,
-    "timeDay": 564,
-    "timeWeek": 302,
-    "timeMonth": 230,
+    "timeDay": 319,
+    "timeWeek": 301,
+    "timeMonth": 237,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-12-06": 113,
+      "2024-12-07": 111,
+      "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -474,8 +475,7 @@
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
-      "2023-12-09": 1440,
-      "2023-12-08": 1440
+      "2023-12-09": 1440
     }
   }
 ]
