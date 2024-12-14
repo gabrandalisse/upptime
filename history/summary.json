@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1226,
-    "timeDay": 1355,
-    "timeWeek": 1391,
-    "timeMonth": 1311,
+    "timeDay": 1400,
+    "timeWeek": 1403,
+    "timeMonth": 1341,
     "timeYear": 1214,
     "dailyMinutesDown": {
       "2024-10-22": 23
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 37,
-    "timeWeek": 190,
-    "timeMonth": 194,
-    "timeYear": 162,
+    "time": 164,
+    "timeDay": 671,
+    "timeWeek": 225,
+    "timeMonth": 214,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 38,
-    "timeWeek": 136,
-    "timeMonth": 130,
+    "timeDay": 132,
+    "timeWeek": 149,
+    "timeMonth": 132,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2024-07-26": 21,
@@ -70,8 +70,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 96,
-    "timeWeek": 115,
+    "timeDay": 132,
+    "timeWeek": 114,
     "timeMonth": 119,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -88,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 152,
-    "timeWeek": 245,
-    "timeMonth": 190,
-    "timeYear": 150,
+    "timeDay": 131,
+    "timeWeek": 259,
+    "timeMonth": 192,
+    "timeYear": 149,
     "dailyMinutesDown": {}
   },
   {
@@ -100,18 +100,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "11.78%",
+    "uptime": "11.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 241,
-    "timeDay": 318,
-    "timeWeek": 230,
-    "timeMonth": 227,
+    "timeDay": 151,
+    "timeWeek": 206,
+    "timeMonth": 229,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2024-12-13": 115,
+      "2024-12-14": 110,
+      "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -474,8 +475,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
-      "2023-12-16": 1440,
-      "2023-12-15": 1440
+      "2023-12-16": 1440
     }
   }
 ]
