@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1218,
-    "timeDay": 3210,
-    "timeWeek": 1620,
-    "timeMonth": 1308,
+    "time": 1216,
+    "timeDay": 509,
+    "timeWeek": 1520,
+    "timeMonth": 1285,
     "timeYear": 1212,
     "dailyMinutesDown": {
       "2024-10-22": 23
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 40,
+    "timeDay": 127,
     "timeWeek": 143,
-    "timeMonth": 166,
+    "timeMonth": 167,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 485,
-    "timeWeek": 147,
-    "timeMonth": 162,
+    "timeDay": 120,
+    "timeWeek": 134,
+    "timeMonth": 152,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2024-07-26": 21
@@ -69,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 78,
+    "timeDay": 76,
     "timeWeek": 133,
     "timeMonth": 121,
     "timeYear": 108,
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 38,
-    "timeWeek": 66,
-    "timeMonth": 149,
+    "timeDay": 137,
+    "timeWeek": 72,
+    "timeMonth": 143,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -99,18 +99,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "11.43%",
+    "uptime": "11.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 252,
-    "timeDay": 49,
-    "timeWeek": 129,
+    "timeDay": 150,
+    "timeWeek": 126,
     "timeMonth": 335,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-01-08": 105,
+      "2025-01-09": 131,
+      "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
@@ -473,8 +474,7 @@
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
-      "2024-01-11": 1440,
-      "2024-01-10": 1440
+      "2024-01-11": 1440
     }
   }
 ]
