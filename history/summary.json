@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1208,
-    "timeDay": 1235,
-    "timeWeek": 1203,
-    "timeMonth": 1204,
-    "timeYear": 1220,
+    "time": 1209,
+    "timeDay": 1775,
+    "timeWeek": 1278,
+    "timeMonth": 1224,
+    "timeYear": 1224,
     "dailyMinutesDown": {
       "2024-10-22": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 166,
-    "timeDay": 382,
-    "timeWeek": 292,
-    "timeMonth": 234,
-    "timeYear": 176,
+    "time": 167,
+    "timeDay": 686,
+    "timeWeek": 380,
+    "timeMonth": 253,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2025-02-18": 53
     }
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 158,
-    "timeDay": 548,
-    "timeWeek": 296,
-    "timeMonth": 216,
+    "time": 157,
+    "timeDay": 273,
+    "timeWeek": 271,
+    "timeMonth": 222,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2025-02-18": 79,
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 70,
-    "timeWeek": 114,
-    "timeMonth": 130,
-    "timeYear": 113,
+    "timeDay": 128,
+    "timeWeek": 109,
+    "timeMonth": 132,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -90,9 +90,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 96,
-    "timeWeek": 228,
-    "timeMonth": 210,
+    "timeDay": 75,
+    "timeWeek": 231,
+    "timeMonth": 202,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-02-18": 52
@@ -104,18 +104,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "10.75%",
+    "uptime": "10.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 261,
-    "timeDay": 192,
-    "timeWeek": 291,
-    "timeMonth": 271,
-    "timeYear": 268,
+    "time": 260,
+    "timeDay": 94,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-03-04": 109,
+      "2025-03-05": 109,
+      "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -478,8 +479,7 @@
       "2024-03-09": 1440,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
-      "2024-03-06": 1440,
-      "2024-03-05": 1440
+      "2024-03-06": 1440
     }
   }
 ]
