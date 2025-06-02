@@ -24,9 +24,9 @@
     "url": "https://hotel-gatsby-react.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/hotel-gatsby-react.netlify.app.ico",
     "slug": "fe-gatsby-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +36,7 @@
     "timeMonth": 365,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2025-06-02": 0,
       "2025-02-18": 53
     }
   },
@@ -104,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "9.80%",
+    "uptime": "9.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -115,7 +116,7 @@
     "timeMonth": 197,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-06-02": 127,
+      "2025-06-02": 1376,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
