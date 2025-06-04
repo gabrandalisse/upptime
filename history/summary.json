@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 1487,
-    "timeWeek": 1428,
-    "timeMonth": 1373,
-    "timeYear": 1250,
+    "time": 1230,
+    "timeDay": 1469,
+    "timeWeek": 1440,
+    "timeMonth": 1378,
+    "timeYear": 1251,
     "dailyMinutesDown": {
       "2024-10-22": 23
     }
@@ -26,15 +26,15 @@
     "slug": "fe-gatsby-hotel",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 60,
-    "timeWeek": 272,
-    "timeMonth": 365,
-    "timeYear": 215,
+    "timeDay": 56,
+    "timeWeek": 274,
+    "timeMonth": 364,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-06-02": 24,
       "2025-02-18": 53
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 175,
-    "timeDay": 80,
-    "timeWeek": 222,
-    "timeMonth": 259,
+    "timeDay": 53,
+    "timeWeek": 188,
+    "timeMonth": 244,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2025-02-18": 79,
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 106,
-    "timeWeek": 129,
-    "timeMonth": 121,
+    "timeDay": 102,
+    "timeWeek": 125,
+    "timeMonth": 120,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 166,
-    "timeDay": 52,
-    "timeWeek": 252,
+    "timeDay": 57,
+    "timeWeek": 191,
     "timeMonth": 263,
-    "timeYear": 170,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2025-02-18": 52
     }
@@ -105,18 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "9.79%",
+    "uptime": "9.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 260,
-    "timeDay": 146,
-    "timeWeek": 165,
+    "time": 259,
+    "timeDay": 69,
+    "timeWeek": 167,
     "timeMonth": 191,
-    "timeYear": 252,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-06-03": 123,
+      "2025-06-04": 123,
+      "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -479,8 +480,7 @@
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
-      "2024-06-05": 1440,
-      "2024-06-04": 1440
+      "2024-06-05": 1440
     }
   }
 ]
