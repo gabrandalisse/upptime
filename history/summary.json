@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1233,
-    "timeDay": 1672,
-    "timeWeek": 1453,
-    "timeMonth": 1401,
+    "time": 1235,
+    "timeDay": 1330,
+    "timeWeek": 1433,
+    "timeMonth": 1397,
     "timeYear": 1254,
     "dailyMinutesDown": {
       "2024-10-22": 23
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 197,
-    "timeDay": 122,
-    "timeWeek": 231,
-    "timeMonth": 331,
-    "timeYear": 215,
+    "timeDay": 423,
+    "timeWeek": 264,
+    "timeMonth": 344,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2025-06-02": 24,
       "2025-02-18": 53
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 174,
-    "timeDay": 106,
-    "timeWeek": 157,
-    "timeMonth": 220,
+    "timeDay": 348,
+    "timeWeek": 183,
+    "timeMonth": 230,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2025-02-18": 79,
@@ -73,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 100,
-    "timeWeek": 119,
+    "timeDay": 133,
+    "timeWeek": 114,
     "timeMonth": 116,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 166,
-    "timeDay": 114,
-    "timeWeek": 92,
+    "timeDay": 53,
+    "timeWeek": 77,
     "timeMonth": 236,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -105,18 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "9.75%",
+    "uptime": "9.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 258,
-    "timeDay": 180,
-    "timeWeek": 192,
-    "timeMonth": 196,
+    "time": 257,
+    "timeDay": 72,
+    "timeWeek": 168,
+    "timeMonth": 188,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-06-07": 121,
+      "2025-06-08": 134,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -479,8 +480,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   }
 ]
