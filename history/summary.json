@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1238,
-    "timeDay": 1377,
-    "timeWeek": 1413,
-    "timeMonth": 1407,
-    "timeYear": 1247,
+    "timeDay": 1308,
+    "timeWeek": 1379,
+    "timeMonth": 1409,
+    "timeYear": 1250,
     "dailyMinutesDown": {
       "2024-10-22": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 201,
-    "timeDay": 57,
-    "timeWeek": 193,
-    "timeMonth": 289,
-    "timeYear": 223,
+    "time": 203,
+    "timeDay": 987,
+    "timeWeek": 317,
+    "timeMonth": 298,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2025-06-02": 24,
       "2025-02-18": 53
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 179,
-    "timeDay": 349,
-    "timeWeek": 234,
-    "timeMonth": 208,
-    "timeYear": 203,
+    "time": 178,
+    "timeDay": 372,
+    "timeWeek": 201,
+    "timeMonth": 219,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2025-02-18": 79,
       "2024-07-26": 21
@@ -72,10 +72,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 91,
-    "timeWeek": 132,
-    "timeMonth": 131,
+    "time": 117,
+    "timeDay": 109,
+    "timeWeek": 128,
+    "timeMonth": 130,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 169,
-    "timeDay": 36,
-    "timeWeek": 152,
-    "timeMonth": 187,
-    "timeYear": 174,
+    "time": 170,
+    "timeDay": 420,
+    "timeWeek": 194,
+    "timeMonth": 199,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2025-02-18": 52
     }
@@ -105,18 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "9.58%",
+    "uptime": "9.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 258,
-    "timeDay": 313,
-    "timeWeek": 213,
-    "timeMonth": 183,
-    "timeYear": 247,
+    "timeDay": 316,
+    "timeWeek": 230,
+    "timeMonth": 191,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-06-25": 125,
+      "2025-06-26": 124,
+      "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -479,8 +480,7 @@
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
-      "2024-06-27": 1440,
-      "2024-06-26": 1440
+      "2024-06-27": 1440
     }
   }
 ]
