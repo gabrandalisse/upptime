@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1248,
-    "timeDay": 1513,
-    "timeWeek": 1327,
-    "timeMonth": 1295,
-    "timeYear": 1251,
+    "time": 1247,
+    "timeDay": 808,
+    "timeWeek": 1273,
+    "timeMonth": 1270,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2024-10-22": 23
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 55,
-    "timeWeek": 380,
-    "timeMonth": 286,
+    "timeDay": 37,
+    "timeWeek": 376,
+    "timeMonth": 283,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-06-02": 24,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 184,
-    "timeDay": 68,
-    "timeWeek": 120,
-    "timeMonth": 243,
+    "timeDay": 153,
+    "timeWeek": 79,
+    "timeMonth": 228,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2025-02-18": 79,
@@ -73,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 112,
-    "timeWeek": 108,
+    "timeDay": 138,
+    "timeWeek": 111,
     "timeMonth": 117,
     "timeYear": 127,
     "dailyMinutesDown": {}
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 174,
-    "timeDay": 398,
-    "timeWeek": 258,
-    "timeMonth": 213,
+    "timeDay": 152,
+    "timeWeek": 272,
+    "timeMonth": 214,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2025-02-18": 52
@@ -105,18 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "9.37%",
+    "uptime": "9.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 260,
-    "timeDay": 343,
-    "timeWeek": 204,
-    "timeMonth": 252,
+    "timeDay": 391,
+    "timeWeek": 248,
+    "timeMonth": 259,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-07-18": 139,
+      "2025-07-19": 127,
+      "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -479,8 +480,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   }
 ]
