@@ -6,17 +6,16 @@
     "slug": "fe-portfolio",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 1247,
     "timeDay": 1426,
     "timeWeek": 1287,
-    "timeMonth": 1269,
+    "timeMonth": 1263,
     "timeYear": 1270,
     "dailyMinutesDown": {
-      "2025-09-30": 12,
       "2025-09-05": 22,
       "2025-09-01": 44,
       "2025-08-31": 15,
@@ -45,7 +44,7 @@
     "time": 229,
     "timeDay": 725,
     "timeWeek": 218,
-    "timeMonth": 237,
+    "timeMonth": 243,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-06-02": 24,
@@ -66,7 +65,7 @@
     "time": 206,
     "timeDay": 372,
     "timeWeek": 312,
-    "timeMonth": 266,
+    "timeMonth": 274,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-08-19": 18,
@@ -105,7 +104,7 @@
     "time": 180,
     "timeDay": 130,
     "timeWeek": 278,
-    "timeMonth": 240,
+    "timeMonth": 247,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2025-08-19": 18,
@@ -118,17 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "8.76%",
+    "uptime": "8.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 248,
     "timeDay": 191,
     "timeWeek": 238,
-    "timeMonth": 268,
+    "timeMonth": 275,
     "timeYear": 252,
     "dailyMinutesDown": {
+      "2025-10-01": 122,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -492,8 +492,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   }
 ]
