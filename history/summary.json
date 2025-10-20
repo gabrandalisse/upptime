@@ -38,10 +38,10 @@
     "url": "https://hotel-gatsby-react.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/hotel-gatsby-react.netlify.app.ico",
     "slug": "fe-gatsby-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 243,
@@ -50,6 +50,7 @@
     "timeMonth": 361,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-06-02": 24,
       "2025-02-18": 53
     }
@@ -59,9 +60,9 @@
     "url": "https://merntasks-evo.netlify.app/",
     "icon": "https://merntasks-evo.netlify.app/favicon.ico",
     "slug": "fe-mern-tasks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -71,7 +72,7 @@
     "timeMonth": 239,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-10-20": 16,
+      "2025-10-20": 17,
       "2025-08-19": 18,
       "2025-02-18": 79
     }
@@ -99,18 +100,19 @@
     "url": "https://singular-pasca-0b330e.netlify.app/",
     "icon": "https://singular-pasca-0b330e.netlify.app/favicon.png",
     "slug": "fe-j-and-l-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 188,
+    "time": 189,
     "timeDay": 376,
     "timeWeek": 332,
     "timeMonth": 255,
     "timeYear": 206,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-08-19": 18,
       "2025-02-18": 52
     }
@@ -132,7 +134,7 @@
     "timeMonth": 262,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-10-20": 944,
+      "2025-10-20": 993,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
