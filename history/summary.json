@@ -4,7 +4,7 @@
     "url": "https://gabrandalisse.vercel.app/",
     "icon": "https://gabrandalisse.vercel.app/favicon.ico",
     "slug": "fe-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -135,7 +135,7 @@
     "timeMonth": 262,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-11-25": 121,
+      "2025-11-25": 1040,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
