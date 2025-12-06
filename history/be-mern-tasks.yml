@@ -1,7 +1,7 @@
 url: https://merntasks-server-evo.herokuapp.com/api/utils/health-check
 status: down
 code: 404
-responseTime: 356
-lastUpdated: 2025-12-05T23:20:17.582Z
+responseTime: 427
+lastUpdated: 2025-12-06T23:19:16.183Z
 startTime: 2022-08-20T23:28:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
