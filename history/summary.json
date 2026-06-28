@@ -13,8 +13,8 @@
     "time": 1482,
     "timeDay": 1977,
     "timeWeek": 2029,
-    "timeMonth": 1993,
-    "timeYear": 1559,
+    "timeMonth": 1994,
+    "timeYear": 1562,
     "dailyMinutesDown": {
       "2025-07-20": 21,
       "2025-07-22": 15,
@@ -44,23 +44,25 @@
     "url": "https://hotel-gatsby-react.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/hotel-gatsby-react.netlify.app.ico",
     "slug": "fe-gatsby-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.95%",
     "time": 426,
     "timeDay": 840,
     "timeWeek": 663,
-    "timeMonth": 724,
-    "timeYear": 464,
+    "timeMonth": 722,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-10-20": 39,
       "2026-05-10": 109,
       "2026-05-19": 66,
       "2026-06-08": 10,
-      "2026-06-07": 13
+      "2026-06-07": 13,
+      "2026-06-28": 6,
+      "2026-06-27": 9
     }
   },
   {
@@ -68,17 +70,17 @@
     "url": "https://merntasks-evo.netlify.app/",
     "icon": "https://merntasks-evo.netlify.app/favicon.ico",
     "slug": "fe-mern-tasks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 320,
     "timeDay": 626,
     "timeWeek": 461,
-    "timeMonth": 504,
-    "timeYear": 348,
+    "timeMonth": 496,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2025-08-19": 18,
       "2025-10-20": 54,
@@ -86,7 +88,9 @@
       "2026-05-10": 108,
       "2026-05-19": 65,
       "2026-06-08": 10,
-      "2026-06-07": 8
+      "2026-06-07": 8,
+      "2026-06-28": 6,
+      "2026-06-27": 4
     }
   },
   {
@@ -103,7 +107,7 @@
     "time": 132,
     "timeDay": 137,
     "timeWeek": 103,
-    "timeMonth": 115,
+    "timeMonth": 116,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -112,21 +116,22 @@
     "url": "https://singular-pasca-0b330e.netlify.app/",
     "icon": "https://singular-pasca-0b330e.netlify.app/favicon.png",
     "slug": "fe-j-and-l-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 321,
     "timeDay": 651,
     "timeWeek": 511,
-    "timeMonth": 561,
-    "timeYear": 359,
+    "timeMonth": 559,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2025-08-19": 18,
       "2025-10-20": 38,
-      "2026-05-19": 65
+      "2026-05-19": 65,
+      "2026-06-28": 5
     }
   },
   {
@@ -135,7 +140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merntasks-server-evo.herokuapp.com.ico",
     "slug": "be-mern-tasks",
     "status": "down",
-    "uptime": "7.08%",
+    "uptime": "7.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -143,10 +148,11 @@
     "time": 255,
     "timeDay": 261,
     "timeWeek": 262,
-    "timeMonth": 217,
+    "timeMonth": 214,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-06-27": 242,
+      "2026-06-28": 6,
+      "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -509,8 +515,7 @@
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
-      "2025-06-29": 1440,
-      "2025-06-28": 1440
+      "2025-06-29": 1440
     }
   }
 ]
